@@ -8,7 +8,7 @@ const Navbar  = ()=>{
     return (
         <nav className="teal accent-4" >
             <div  className="nav-wrapper">
-            <Link className="brand-logo" to="/">AniMad</Link>
+            <Link className="brand-logo" to="/">AniPly</Link>
             <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
                  <Link  to="/popular/1">Popular</Link>
