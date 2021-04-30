@@ -42,9 +42,9 @@ const Home = ()=>{
           </div>
 
           <h3>
-            Made by Naman Balaji
+            Made By DRAJ
           </h3>
-          <a href="https://github.com/NamanBalaji/AniMad">
+          <a href="https://github.com/draj48">
             Github
           </a>
 
